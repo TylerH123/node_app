@@ -1,9 +1,9 @@
 #Tyler Huang
 #SoftDev1 pd2
-#K11 -- Ay Mon Go Git It From Yer Flask
-#2020-03-17
+#P03: TEDxSoftDev VII
+#2020-03-27
 
-from flask import Flask, render_template, request
+from flask import Flask, render_template
 
 
 app = Flask(__name__)
